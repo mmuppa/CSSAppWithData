@@ -1,5 +1,6 @@
-package edu.uw.tacoma.mmuppa.cssappwithdata;
+package edu.uw.tacoma.mmuppa.cssappwithdata.Controllers;
 
+import edu.uw.tacoma.mmuppa.cssappwithdata.R;
 import edu.uw.tacoma.mmuppa.cssappwithdata.model.Course;
 
 import android.support.v7.app.ActionBarActivity;
